@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="TurtlesAllTheWayDown" target="1.5" />
+      <module name="TurtlesAllTheWayDown" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
